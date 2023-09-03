@@ -52,7 +52,7 @@ To learn more about this template and how it is configured for establishing a co
 
 **SmartFoxServer Example Documentation**   
 
-http://docs2x.smartfoxserver.com/ExamplesGodot/lobby-basics
+http://docs2x.smartfoxserver.com/ExamplesGodot/lobby-buddies
 
 This online documentation includes:
 * Buddies List Initialization
