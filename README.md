@@ -24,7 +24,7 @@ This example expands the one described in the Lobby: Basics tutorial by adding a
 
 <p align="center"> 
 <img width="720" alt="connector-login" src="https://github.com/SmartFoxServer/SFS_LobbyBasics_GD4/assets/30838007/3001b9ec-4cc0-4316-9fe2-eaeecdc60a60">
- </p>h
+ </p>
 
 In this document we assume that you already went through the previous tutorial, where we explained the subdivision of the application into three scenes, and how to create a GlobalManager class to share the connection to SmartFoxServer among those scenes.
 
