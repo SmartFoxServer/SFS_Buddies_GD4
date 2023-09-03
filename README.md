@@ -44,10 +44,6 @@ The base code for this example is the same of the previous one, expanded to impl
 
 The LobbySceneManager and GameSceneManager classes have been updated to add the logic related to the Buddy List management and interaction. Also, in the scripts subfolder, the new BuddyChatHistoryManager static class provides helper methods and cross-scene data sharing for the buddy chat, as discussed below.
 
-<p align="center"> 
-<img width="720" alt="connector-login" src="https://github.com/SmartFoxServer/SFS_LobbyBasics_GD4/assets/30838007/c559cfd9-d0af-41f4-866e-65323a279c25">
- </p>
-
 To learn more about this template and how it is configured for establishing a connection and handling basic SmartFoxServer events, go to the online documentation and tutorials linked below.
 
 **SmartFoxServer Example Documentation**   
